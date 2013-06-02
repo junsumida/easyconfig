@@ -8,5 +8,5 @@ fi
 
 echo "configuring git"
 git config --global user.name "Jun Sumida"
-git config --global user.email sjun@wondershake.com
+git config --global user.email sekitoh.rh@gmail.com
 git config --global color.ui auto 
